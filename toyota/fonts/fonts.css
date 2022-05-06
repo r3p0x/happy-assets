@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Toyota Type';
+  font-weight: 800;
+  src: url(./Bold.ttf);
+}
+
+@font-face {
+  font-family: 'Toyota Type';
+  font-weight: 400;
+  src: url(./Regular.ttf);
+}
